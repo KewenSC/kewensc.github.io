@@ -1,3 +1,2 @@
-primary hash: #7e4ed3
-primary RGB: rgb(126, 78, 211)
+primary hash: #006EE6
 Links: #33D1C5
